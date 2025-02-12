@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaMultimedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="pausar">Pausar</string>
+    <string name="volver">Volver</string>
+    <string name="icono_multimedia">Icono multimedia</string>
+    <string name="ver_detalles">Ver detalles</string>
+    <string name="detalles_sobre_el_contenido">Detalles sobre el contenido...</string>
+</resources>
